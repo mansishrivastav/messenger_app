@@ -1,0 +1,14 @@
+.btn{
+    background-color: transparent;
+    padding: 0.5rem 0.8rem;
+    border:1px solid #ecf0f1;
+    letter-spacing: 1px;
+    border-radius: 2rem;
+    color:whitesmoke;
+    font-weight: 700;
+}
+.btn:hover{
+    background-color: #ecf0f1;
+    color: green;
+    
+}

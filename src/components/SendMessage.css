@@ -1,0 +1,29 @@
+.form{
+    height: 4rem;
+    width: 100%;
+    max-width: 728px;
+    display: flex;
+    font-size: 1.8rem;
+    position: absolute;
+    bottom: 0;
+   
+    
+}
+.input{
+    width:100%;
+    font-size: 1.8rem;
+    padding: 2rem;
+    background-color: #222f3e;
+    color: whitesmoke;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    margin: 0 0.5rem;
+}
+.button{
+background-color: #27ae60;
+border:none;
+border-radius: 50%;
+padding: 1rem;
+color: white;
+}

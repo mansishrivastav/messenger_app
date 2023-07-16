@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Kanit:wght@500&family=Mukta:wght@500&family=Open+Sans:wght@500&family=Oswald:wght@500&family=Poppins:wght@500&family=Questrial&display=swap');
+
+.container{
+  max-width: 65%;
+  justify-content: center;
+  margin: auto;
+  margin-top: 2rem;
+  align-items: center;
+  text-align: center;
+
+  
+}
+ .section-container{
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  background-color: #dfe6e9;
+  margin-top: 1rem;
+  position: relative;
+  border-radius: 2rem ;
+  
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

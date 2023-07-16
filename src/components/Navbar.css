@@ -1,0 +1,13 @@
+.nav{
+    background-color: #056324;
+    height: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+}
+.heading{
+    color: whitesmoke;
+    font-size: 1.875rem;
+    font-family: 'Questrial', sans-serif;
+}
